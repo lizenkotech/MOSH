@@ -1,2 +1,2 @@
-course_name = "Python Programming"
+course = "Python Programming"
 print(len(course))
