@@ -1,6 +1,7 @@
 x = input("x: ")
-print(type(x))
-# y = x + 1
+"""print(type(x))"""
+y = x + 1
+print(f"x: {x}, y: {y}")
 
 # "1" + 1
 # int(x)
