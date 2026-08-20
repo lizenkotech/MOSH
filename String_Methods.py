@@ -1,2 +1,2 @@
 course = "Python Programming"
-print(course.upper)
+print(course.upper())
