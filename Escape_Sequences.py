@@ -1,1 +1,1 @@
-course = "Python 'Programming"
+course = 'Python "Programming'
