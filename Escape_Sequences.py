@@ -4,5 +4,5 @@
 # \n
 
 
-course = 'Python "Programming'
+course = "Python \nProgramming"
 print(course)
