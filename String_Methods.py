@@ -1,2 +1,2 @@
 course = "Python Programming"
-course.split
+print(course.upper)
