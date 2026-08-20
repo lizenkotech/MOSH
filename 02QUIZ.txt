@@ -1,0 +1,23 @@
+1; What are the primitive types in python?
+________________________________
+answer;
+booleans
+in python you have; strings, numbers and
+
+numbers; intergers, Floats or complex numbers
+________________________________
+------------------------------------------------------------------------
+2; what wil the output be of print?
+fruit = "Apple"
+print (fruit[1])
+________________________________
+answer; p
+________________________________
+------------------------------------------------------------------------
+________________________________
+------------------------------------------------------------------------
+2; what wil the output be of print?
+fruit = "Apple"
+print (fruit[1:-1])
+________________________________
+answer;
