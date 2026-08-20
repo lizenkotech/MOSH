@@ -20,4 +20,31 @@ ________________________________
 fruit = "Apple"
 print (fruit[1:-1])
 ________________________________
+answer; ppl
+----------------------------------------------------------
+3;What is the result of this expression
+10 % 3
+________________________________
+it returns the remainder of this division wich
+in this case is 1
+________________________________
+4; what do you think we will see when we
+print bull of false
+
+print(bool("False))
+----------------------------------------------------------
+
+----------------------------------------------------------
+________________________________
 answer;
+falsy values in Python so number zero an
+empty string and the non object these are all
+falsy values anything that is not falsey
+is considered truthy here we have a string
+that has five characters it
+doesn't matter what those characters are this
+is not an empty string so it's not falsey it's
+truy so when we convert it
+using the bool function we wil get
+the Boolean true.
+________________________________
