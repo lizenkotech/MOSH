@@ -1,1 +1,5 @@
-print("Hello World")
+students_count = 10000
+rating = 4.99
+is_published = False
+
+print(students_count)
