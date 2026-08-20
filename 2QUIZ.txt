@@ -4,7 +4,7 @@ answer;
 booleans
 in python you have; strings, numbers and
 
-numbers; intergers, Floats or complex numbers
+numbers; integers, Floats or complex numbers
 ________________________________
 ------------------------------------------------------------------------
 2; what wil the output be of print?
