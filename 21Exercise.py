@@ -5,3 +5,18 @@
 
 # for number in range(1, 6):
 #     print(number)
+
+for number in range(
+    1,
+    10,
+):
+    if number % 2 == 0:
+        print(number)
+
+
+for number in range(
+    1,
+    10,
+):
+    if number % 2 == 1:
+        print(number)
