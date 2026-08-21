@@ -1,7 +1,6 @@
 # command = ""
 # while command != "quit"
 
-
 while True:
     command = input(">")
     print("ECHO", command)
