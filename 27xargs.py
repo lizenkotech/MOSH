@@ -30,4 +30,4 @@ def multiply(*numbers):
     return total
 
 
-multiply(2, 3, 4, 5)
+print(multiply(2, 3, 4, 5))
