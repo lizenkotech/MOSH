@@ -1,4 +1,4 @@
-high_income = True
+high_income = False
 good_credit = True
 student = True
 
