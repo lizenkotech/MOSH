@@ -13,7 +13,7 @@
 
 high_income = False
 good_credit = True
-student = True
+student = False
 
 if not student:
     print("Eligible")
