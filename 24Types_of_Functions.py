@@ -7,6 +7,8 @@ def get_greeting(name):
 
 
 message = get_greeting("Alice")
+file = open("content.txt", "w")
+file.write(message)
 
 
 # 1- function perform a task
