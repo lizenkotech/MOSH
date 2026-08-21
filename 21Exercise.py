@@ -3,4 +3,5 @@
 #         print(number)
 # print("we have 4 even numbers")
 
-range(1, 5)
+# for number in range(1, 6):
+#     print(number)
