@@ -4,4 +4,6 @@ if temperatur > 30:
     print("Drink water")
 elif temperatur > 20:
     print("it's nice")
+else:
+    print("It's cold")
 print("Done")
