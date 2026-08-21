@@ -20,6 +20,6 @@ True
 """
 
 Command = ""
-while Command != "quit":
+while Command.lower() != "quit":
     Command = input(">")
     print("ECHO", Command)
