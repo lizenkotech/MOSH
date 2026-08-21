@@ -22,3 +22,4 @@ True
 Command = ""
 while Command != "quit":
     Command = input(">")
+    print("ECHO", Command)
