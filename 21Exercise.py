@@ -92,7 +92,8 @@ There are 10 even numbers"""
 
 """Exercise 6 — Don't print 6
 
-Print the even numbers from 1 to 10, but stop completely when you reach 6.
+Print the even numbers from 1 to 10,
+but stop completely when you reach 6.
 
 Expected output:
 
