@@ -1,4 +1,4 @@
-temperatur = 35
+temperatur = 15
 if temperatur > 30:
     print("It's warm")
     print("Drink water")
