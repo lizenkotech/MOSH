@@ -18,3 +18,7 @@ True
 >>> ^D control D
 ~ $
 """
+
+Command = ""
+while Command != "quit":
+    Command = input(">")
