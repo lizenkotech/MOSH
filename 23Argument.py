@@ -4,3 +4,4 @@ def greet(first_name, last_name):
 
 
 greet("Alice", "Crossman")
+greet("John", "Doe")
